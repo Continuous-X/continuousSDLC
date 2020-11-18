@@ -1,7 +1,18 @@
 # Continuous Security
-Mit diesem Repository sollen Fragen mit dem Blick auf Security beantwortet werden.
-## Wie kann man IT Sicherheit für die Entwicklung von Software sicherstellen?
-Die Frage ist auch - wie kommt man auf so eine Frage?
+Eine Selbstfindung zur Ermittlung von Schutzbedarfen im Software Entwicklungsprozess.
 
-Am Anfang war der Code....\
-Dann kamen die Ideen. Mit den anfangs gut gesinnten Ideen kamen abwegige Ideen....
+## Intro
+Informationen gab es, gibt es und wird es immer geben.\
+Die erste Frage, die sich mir stellt ist - Was ist eine Information?
+
+Es gibt mehrere Definitionen von Informationen. In dieser Betrachtung wird angenommen, dass eine Information 
+Wissen in jeglicher Form. 
+
+## Notizen
+- Definition von Information
+- Beispiele von Information
+- Klassifizierung
+
+-----
+Links
+[*1 - Definition von Information](https://de.wikipedia.org/wiki/Information) 
