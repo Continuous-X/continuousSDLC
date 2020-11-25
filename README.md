@@ -30,7 +30,17 @@ Diese Möglichkeit der Reproduktion bietet gleichzeitig die Möglichkeit eine Ar
 oder neue Arten entstehen zu lassen.
 
 Je nach Fähigkeiten einer Art und der umgebenen Geschehen entstehen Situationen auf die eine Reaktion erfolgt.
-Dies kann dazu führen, dass sich das Erbgut von Generation zu Generation verändert und so eine Entwicklung der Art erfolgt. 
+Bei Situationen, die dem Lebewesen Schaden zufügen können, entwickelt das Lebewesen 
+nach und nach eine Abwehr und so einen Schutz. 
+Dies kann dazu führen, dass die angewendeten Schutzmaßnahmen das Erbgut von Generation 
+zu Generation verändert und so eine Entwicklung der Art erfolgt, die den Schaden ohne zusätzliche Abwehr verhindert.
+
+
+
+
+----
+
+
 
 
 
