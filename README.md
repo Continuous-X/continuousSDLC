@@ -20,10 +20,13 @@ Bis heute ist ungeklärt, wie aus anorganischer Materie die organische entstand.
 Mit der Entstehung der organischen Materie begann das Leben.
 
 ## Leben
-Das Leben. Ein Zusammenspiel von Lebewesen.
+Das Leben. Ein Zusammenspiel von Lebewesen, beschrieben durch den Austausch von Energien, Stoffen und Informationen. 
 
-Lebewesen, welche als Systeme organischer Materie gesehen werden können, sind dazu fähig ständig Energie, Stoffe und Informationen 
-auszutauschen. Sie haben eine Lebenserwartung und je nach Art ist diese unterschiedlich.
+Lebewesen, welche als Systeme organischer Materie gesehen werden können, sind dazu fähig 
+- sich selbst zu erhalten (Aufrechterhaltung der Körperfunktion durch Stoffwechsel)
+- sicher fortzupflanzen
+
+Sie haben eine Lebenserwartung und je nach Art ist diese unterschiedlich.
 Diese Form des Daseins verpflichtet Lebewesen zur Fortpflanzung, bei der Erbinformationen
 weitergegeben werden, um ihre Art zu erhalten. 
 Diese Möglichkeit der Reproduktion bietet gleichzeitig die Möglichkeit eine Art weiterzuentwickeln 
