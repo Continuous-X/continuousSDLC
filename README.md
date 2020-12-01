@@ -14,9 +14,9 @@ gegen ihre Umgebung ebenfalls behaupten müssen.
 Kann man bei der Ermittlung zum Schutzbedarf eines IT-Systems von der Natur abschauen?
 
 Um einen möglichen Weg zur Beantwortung der Frage finden zu können, müssen ein paar Dinge er- und geklärt werden.
-- Was ist Schutz und wann entsteht der Bedarf an Schutz?\
+- Was ist Schutz und wann entsteht der Bedarf an Schutz?
 - Was ist Natur, welche SchutzLösungen bietet sie und aus welchem Bedarf sind sie entstanden?
-- Gab es schon immer den Bedarf an Schutz?\
+- Gab es schon immer den Bedarf an Schutz?
 
 ### mögliche weiterführende Fragen
 Kann der Bedarf an Schutz vor dessen Notwendigkeit ermittelt werden?\
