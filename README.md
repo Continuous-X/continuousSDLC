@@ -11,7 +11,7 @@ Natürliche Systeme entwickeln selbständig aus unterschiedlichen Bedarfen Strat
 
 IT-Systeme sind vom Menschen erdachte und konstruierte künstliche Systeme, die sich 
 gegen ihre Umgebung ebenfalls behaupten müssen. Daraus ergibt sich folgende Frage.\
-Kann man bei der Ermittlung zum Schutzbedarf eines IT-Systems von der Natur abschauen?
+**Kann man bei der Ermittlung zum Schutzbedarf eines IT-Systems von der Natur abschauen?**
 
 Um einen möglichen Weg zur Beantwortung der Frage finden zu können, müssen ein paar Dinge er- und geklärt werden.
 - Was ist Schutz und wann entsteht der Bedarf an Schutz?
