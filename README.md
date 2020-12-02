@@ -6,13 +6,13 @@ Der Mensch erschafft Dinge und schaut sich dabei viel von der Natur ab.
 Die [Bionik](https://de.wikipedia.org/wiki/Bionik) beschäftigt sich genau damit. 
 Es werden Phänomene aus der Natur auf die Technik übertragen.
 
-In der Natur entwickeln sich Systeme selbständig in ihrer Umgebung. 
+In der Natur entwickeln sich Systeme evolutionär. Die besseren Überlebensstrategien gewinnen.
 Natürliche Systeme entwickeln aus unterschiedlichen Bedarfen Strategien 
 zur Erhaltung der eigenen Sicherheit und zum Fortbestand der eigenen Art.
 
 IT-Systeme sind vom Menschen erdachte und konstruierte künstliche Systeme.
-Eine selbständige Entwicklung in ihrer Umgebung, unabhängig von ihrem Schöpfer, 
-scheint durch AI möglich, ist allerdings im kommerziellen Umfeld nicht der Alltag. 
+Eine evolutionäre Entwicklung ist nicht üblich. Fuzzing ist eine zaghafte Annäherung, aber normalerweise gibt es keine selbständige Entwicklung in ihrer Umgebung, unabhängig von ihrem Schöpfer, 
+da dieser die Kontrolle über das System behalten möchte.
 Wirft man einen Blick auf die selbständige Erhaltung der eigenen Sicherheit bei IT-Systemen, mit Unterstützung ihrer Schöpfer, wird 
 es interessant.
 
