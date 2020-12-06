@@ -1,3 +1,3 @@
 # Fuzzing
 
-see Issue #2 
+[see Issue](https://github.com/Continuous-X/continuousSec/issues/2)
