@@ -34,3 +34,13 @@ network={
 ## Metriken
 Installation von InfluxDB und Grafana: https://simonhearne.com/2020/pi-influx-grafana/
 Installation von Prometheus mit Node Exporter: https://www.mytinydc.com/en/blog/prometheus-grafana-installation/
+
+### Node-Exporter
+- aktuelle Version ermitteln: https://github.com/prometheus/node_exporter/releases
+- ``wget https://github.com/prometheus/node_exporter/releases/download/v1.0.1/node_exporter-1.0.1.linux-armv7.tar.gz``
+- ``tar xfz node_exporter-1.0.1.linux-armv7.tar.gz``
+- Ablage unter``/usr/local/bin`` => `sudo cp -R ... /usr/local/bin`
+- ``cd /usr/local/bin && sudo ln -s node_exporter-1.0.1.linux-armv7 node_exporter``
+- ``cd node_exporter``
+- ``nohup ./node_exporter &``
+- http://192.168.0.xxx:9100/metrics
